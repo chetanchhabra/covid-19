@@ -1,4 +1,4 @@
-# covid-19
+# epidemic
 The repo consist of notebooks which:  
 
 Implemented a tree based probabilistic model of epidemic spread for different reproductive numbers of virus.  
